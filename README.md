@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! (General Kenobi!)
+- 😄 Pronouns: He/Him
+- 🌱 I’m about to start my School of Code Journey!
+- 💬 Ask me about boardgames! ^_^
+- 📫 How to reach me on twitter: https://twitter.com/JackarooVJW
+- ⚡ Fun fact: I used to work with cadavers! 
+### Peace and love <3 
 
 <!--
 **Bazelden/Bazelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
